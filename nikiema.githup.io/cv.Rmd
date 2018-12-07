@@ -1,0 +1,118 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<p align="center">
+*Curriculum Vitae*
+</p>
+
+
+<p align="center">
+<font size="+2">**Etudiante**</font>
+</p>
+----
+
+<p align="justify">
+**Status:** Student at the <a href='http://www.essai.rnu.tn/accueil.htm'> Higher School of Statistics and Information Analysis of Tunis</a>
+
+**Interests:** Statistics, Economics, Portfolio Management, Actuarial Science.
+
+</p>
+
+----
+
+<p align="justify">
+**Summary** My name is NIKIEMA Erica Hermaine Epiphanie WendToin, Master Student in Information Processing and Complexity of Life (TICV) at <a href = 'http: //www.enit.rnu.tn/en/diverses/news. php '> National School of Engineers of Tunis </a> and also in 3rd year cycle engineer at the <a href='http://www.essai.rnu.tn/accueil.htm'> School Superior of the statistics and information analysis of Tunis </a> where I specialize in actuarial science.
+</p>
+
+----
+
+## FORMATION
+
+<p align="justify">
+
+2018-2019
+:   **Master of Information Processing and Complexity of Life (TICV)**; <a href='http://www.enit.rnu.tn/fr/home/indexfr.php'>National School of Engineers of Tunis</a>,  <a href='http://www.utm.rnu.tn/utm/fr/'>University Tunis El Manar</a> 
+
+
+2016-2019
+:   **
+448/5000
+Engineering Cycle in Statistics **; <a href='http://www.essai.rnu.tn/home.htm'> TRIAL </a>
+
+2014-2016
+: ** Preparatory Cycle for Engineering Schools in Maths Physics **; <a href='http://www.ipeis.rnu.tn/'> IPEIS </a>
+
+     * Admission to the Common National MP Contest *
+
+2013-2014
+: ** Diploma of the Baccalaureate series D with the mention Bien **; <a href='https://www.facebook.com/pages/Lyc%C3%A9e-Priv%C3%A9-La-Salle-Badenya/235713656561154'> Badenya </a>
+</p>
+
+----
+
+## COURSES AND PROJECTS
+
+<p align="justify">
+
+2017-2018
+:   **Engineer internship **: "Creation of an index portfolio"; <a href='http://www.ameninvest.com/'> Amen Invest Company, Mohamed5, Tunisia </a>.
+
+2017-2018
+: ** PFA2 **: "Realization of a static website" Java application, ESSAIT.
+
+2016-2017
+: ** Integration internship **: "Opinion poll"; <a href='https://www.facebook.com/One-to-One-for-Research-and-Polling-922053161172583/'> Company ONE TO ONE FOR RESEARCH AND POLLING, Mutual City, Tunisia </a>
+
+2016-2017
+: ** PFA1 **: "Realization of an interface for survey with tablet" Use of the software Cspro within the framework of this realization, ESSAIT.
+</p>
+
+----
+
+##Data processing
+
+<p align="justify">
+
+**Office:**
+Word, Excel, Powerpoint, Latex.
+
+**Programming:**
+R, C, Cspro, Java, EViews, ArgoUML, PowerAMC.
+
+</p>
+
+----
+
+## DIVERS
+
+<p align="justify">
+
+2017-2018
+:Active member of the Burkina community, Participation in the cooking contest, 2nd prize.
+
+2016-2017
+: Participation in the reading club ESSAIT.
+
+2014-2016
+: Head of the GBU SFAX organization (University Bible Group).
+</p>
+
+----
+
+## Contact 
+
+>  *email:*  <epiphanienikiema@gmail.com> \
+>  *website:* <a href='https://github.com/ericaepiphanie/Erica'>https://github.com/ericaepiphanie/Erica</a>
