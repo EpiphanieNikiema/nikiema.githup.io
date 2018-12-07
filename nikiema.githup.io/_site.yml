@@ -7,7 +7,7 @@ navbar:
   - text: Home
     icon: fa-home
     href: index.html
-  - text: Compétences 
+  - text: CompÃ©tences 
     menu: 
       - text: cv RMarkdown
         href: cv.html
@@ -22,7 +22,7 @@ navbar:
   - icon: fa-envelope fa-lg
     href: contact.html
   - icon: fa-github fa-lg
-    href: http://www.facebook.com/epiphanie.nikiema
+    href: http:https://github.com/EpiphanieNikiema
   - icon: fa-linkedin fa-lg
   - icon: fa-linkedin fa-lg
     href: https://linkedin.com/in/erica-nikiema-a28452158/
